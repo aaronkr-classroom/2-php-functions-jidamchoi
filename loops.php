@@ -63,6 +63,3 @@ $products = [
         </table>
     </body>
 </html>
-
-
-
